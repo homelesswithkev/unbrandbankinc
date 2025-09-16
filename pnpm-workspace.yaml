@@ -1,0 +1,6 @@
+onlyBuiltDependencies:
+  - '@strapi/strapi'
+  - '@tailwindcss/oxide'
+  - esbuild
+  - sharp
+  - workerd
